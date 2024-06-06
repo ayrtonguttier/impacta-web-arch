@@ -1,0 +1,30 @@
+.content {
+    width: 500px;
+}
+
+.input {
+    display: block;
+    width: 70%;
+    margin: 10px auto;
+}
+
+.input label {
+    font-weight: bold;
+}
+
+.btn {
+    display: block;
+    width: 70%;
+    margin: 10px auto;
+}
+
+.resultado {
+    display: block;
+    width: 70%;
+    margin: 10px auto;
+    font-weight: bold;
+}
+
+.resultado span {
+    color: grey;
+}
